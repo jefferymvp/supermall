@@ -1,0 +1,5 @@
+同步远程仓库
+git remote -v
+git remote rm origin
+git remote add origin https://github.com/river133/supermall2.git
+git push -u origin master
